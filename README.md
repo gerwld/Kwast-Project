@@ -1,5 +1,5 @@
 # Kwast Project
-Project what i created for HTML Academy.<br>
+Project what i created on the HTMLAcademy course.<br>
 <br>
 <b>Link to the project:</b><br>
 https://gerwld.github.io/Kwast-Project/
